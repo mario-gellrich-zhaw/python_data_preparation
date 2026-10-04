@@ -7,7 +7,8 @@ images and text with Python.
 
 | Notebook | Content |
 |---|---|
-| [advanced_data_preparation_apartment_data.ipynb](advanced_data_preparation_apartment_data.ipynb) | Worked example with scraped rental apartment data from Zurich. Covers regex extraction, handling missing and duplicated values, string manipulation, discretization, one-hot encoding, scaling, standardization, transformations (log, sqrt, Box-Cox), merging with geocoded and municipality data, sorting, reshaping (`stack`, `melt`) and pivot tables. |
+| [advanced_data_preparation_apartment_data.ipynb](advanced_data_preparation_apartment_data.ipynb) | **Exercise:** advanced data preparation with scraped rental apartment data from Zurich. |
+| [advanced_data_preparation_apartment_data_solution.ipynb](advanced_data_preparation_apartment_data_solution.ipynb) | Solution to the apartment data exercise (worked example). Scraped rental apartment data from Zurich. Covers regex extraction, handling missing and duplicated values, string manipulation, discretization, one-hot encoding, scaling, standardization, transformations (log, sqrt, Box-Cox), merging with geocoded and municipality data, sorting, reshaping (`stack`, `melt`) and pivot tables. |
 | [advanced_data_preparation_car_data.ipynb](advanced_data_preparation_car_data.ipynb) | **Exercise:** apply the same steps to scraped car listings from AutoScout24. |
 | [advanced_data_preparation_car_data_solution.ipynb](advanced_data_preparation_car_data_solution.ipynb) | Solution to the car data exercise. |
 | [image_processing_with_opencv.ipynb](image_processing_with_opencv.ipynb) | Basic image processing with OpenCV: grayscale conversion, resizing, rotating, blurring and edge detection. |
